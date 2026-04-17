@@ -12,7 +12,3 @@ DOMAIN,ch.feiyue.lol,Emby
 
 # Suffix 类型（更稳）
 DOMAIN-SUFFIX,embyplus.org,Emby
-
-# 直连（不要走 Emby）
-DOMAIN,awstlsb.jegotrip.com.cn,DIRECT
-DOMAIN,awstlsa.jegotrip.com.cn,DIRECT
