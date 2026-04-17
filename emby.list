@@ -9,6 +9,10 @@ DOMAIN,cf.sfcj.org,Emby
 DOMAIN,cflocal.xxlb.net,Emby
 DOMAIN,yepfastplay.xxlb.net,Emby
 DOMAIN,ch.feiyue.lol,Emby
+DOMAIN,play.chilledmelon.com
+
+
+
 
 # Suffix 类型（更稳）
 DOMAIN-SUFFIX,embyplus.org,Emby
