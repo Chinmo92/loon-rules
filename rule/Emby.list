@@ -1,9 +1,11 @@
 
 # Emby 规则
 
+# HG
+DOMAIN,hgemby.qzz.io
 
 # nyamedia
-DOMAIN,hgemby.qzz.io,Emby
+
 DOMAIN,emby.bangumi.ca,Emby
 
 
